@@ -105,7 +105,7 @@ nav ul li a {
 .anim {
     opacity: 0;
     transform: translateY(30px);
-    animation: moveup 0.5s linear forwards;
+    animation: moveup 0.8s linear forwards;
 }
 
 
